@@ -1,0 +1,60 @@
+{
+  "square": [
+    {
+      "side": 40,
+      "x": 304,
+      "y": 219,
+      "color": {
+        "value": -16711936,
+        "falpha": 0.0
+      }
+    }
+  ],
+  "rectangles": [
+    {
+      "width": 50,
+      "height": 109,
+      "x": 130,
+      "y": 99,
+      "color": {
+        "value": -16776961,
+        "falpha": 0.0
+      }
+    }
+  ],
+  "ellipses": [
+    {
+      "ratioUp": 69,
+      "ratioDown": 121,
+      "x": 82,
+      "y": 285,
+      "color": {
+        "value": -65536,
+        "falpha": 0.0
+      }
+    }
+  ],
+  "circles": [
+    {
+      "ratio": 72,
+      "x": 445,
+      "y": 228,
+      "color": {
+        "value": -256,
+        "falpha": 0.0
+      }
+    }
+  ],
+  "lines": [
+    {
+      "xlarge": 597,
+      "ylarge": 138,
+      "x": 228,
+      "y": 90,
+      "color": {
+        "value": -16711936,
+        "falpha": 0.0
+      }
+    }
+  ]
+}
